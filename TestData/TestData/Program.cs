@@ -13,5 +13,10 @@ namespace TestData
         {
             Console.WriteLine("This is super duper cool");
         }
+
+        static void BranchAddition()
+        {
+            // this is my new method for branch additions
+        }
     }
 }
